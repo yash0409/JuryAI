@@ -1,6 +1,6 @@
 # Jury - Legal Document Analyzer
 
-An AI-powered legal document analysis tool built with FastAPI, LangGraph agents, and Next.js. Upload legal PDFs and get automated summaries, clause extraction, risk analysis, and explanations powered by Groq's Mistral Saba model.
+An AI-powered legal document analysis tool built with FastAPI, LangGraph agents, and Next.js. Upload legal PDFs and get automated summaries, clause extraction, risk analysis, and explanations powered by Groq's LLaMa 3.1 8B model.
 
 ## Features
 
