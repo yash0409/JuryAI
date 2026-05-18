@@ -75,7 +75,7 @@ jury/
 - FastAPI
 - LangGraph / LangChain
 - ChromaDB (vector database)
-- Groq API (Mistral Saba 24B model)
+- Groq API (LLaMa 3.1 8B)
 
 **Frontend:**
 - Next.js 15
